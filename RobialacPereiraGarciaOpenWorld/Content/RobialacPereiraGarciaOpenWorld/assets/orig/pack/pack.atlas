@@ -1,0 +1,167 @@
+
+pack.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ambulance2
+  rotate: false
+  xy: 1877, 1764
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Ambulance3
+  rotate: false
+  xy: 1877, 1506
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Audi
+  rotate: false
+  xy: 2135, 1764
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+BlackViper
+  rotate: false
+  xy: 1877, 1248
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Car
+  rotate: false
+  xy: 2135, 1506
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+CercaGrande
+  rotate: false
+  xy: 2, 108
+  size: 1000, 37
+  orig: 1000, 37
+  offset: 0, 0
+  index: -1
+MiniTruck
+  rotate: false
+  xy: 2393, 1764
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+MiniVan
+  rotate: false
+  xy: 1877, 990
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Police1
+  rotate: false
+  xy: 2135, 1248
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Police2
+  rotate: false
+  xy: 2393, 1506
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Police3
+  rotate: false
+  xy: 2651, 1764
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TratorAzul
+  rotate: false
+  xy: 2393, 1248
+  size: 171, 256
+  orig: 171, 256
+  offset: 0, 0
+  index: -1
+cerca
+  rotate: false
+  xy: 1877, 630
+  size: 20, 100
+  orig: 20, 100
+  offset: 0, 0
+  index: -1
+chickeneatsingle
+  rotate: false
+  xy: 1004, 117
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+coweatsingle
+  rotate: false
+  xy: 2135, 922
+  size: 50, 66
+  orig: 50, 66
+  offset: 0, 0
+  index: -1
+cowwalksingle
+  rotate: false
+  xy: 2909, 1967
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+kindpng1378742
+  rotate: false
+  xy: 2, 147
+  size: 1873, 1873
+  orig: 1873, 1873
+  offset: 0, 0
+  index: -1
+pigwalksingle
+  rotate: false
+  xy: 2566, 1450
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+sheepwalksingle
+  rotate: false
+  xy: 2393, 1194
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1
+taxi
+  rotate: false
+  xy: 1877, 732
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tomate
+  rotate: false
+  xy: 2651, 1662
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+tomate2
+  rotate: false
+  xy: 2, 2
+  size: 217, 104
+  orig: 217, 104
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 2135, 990
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

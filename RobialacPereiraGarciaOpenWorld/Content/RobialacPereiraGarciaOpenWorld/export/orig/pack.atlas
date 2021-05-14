@@ -1,0 +1,125 @@
+
+pack.png
+size: 4096,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ambulance2
+  rotate: false
+  xy: 2, 210
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Ambulance3
+  rotate: false
+  xy: 2324, 249
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Audi
+  rotate: false
+  xy: 2840, 249
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Blackviper
+  rotate: false
+  xy: 2582, 249
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Car
+  rotate: false
+  xy: 1292, 249
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+CercaGrande
+  rotate: false
+  xy: 2, 468
+  size: 1000, 37
+  orig: 1000, 37
+  offset: 0, 0
+  index: -1
+Minitruck
+  rotate: false
+  xy: 776, 210
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Minivan
+  rotate: false
+  xy: 1808, 249
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Police1
+  rotate: false
+  xy: 1034, 249
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Police2
+  rotate: false
+  xy: 2066, 249
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Police3
+  rotate: false
+  xy: 260, 210
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+TratorAzul
+  rotate: false
+  xy: 3098, 249
+  size: 171, 256
+  orig: 171, 256
+  offset: 0, 0
+  index: -1
+cerca
+  rotate: false
+  xy: 2, 2
+  size: 20, 100
+  orig: 20, 100
+  offset: 0, 0
+  index: -1
+taxi
+  rotate: false
+  xy: 1550, 249
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+tomate
+  rotate: false
+  xy: 3271, 405
+  size: 102, 100
+  orig: 102, 100
+  offset: 0, 0
+  index: -1
+tomate2
+  rotate: false
+  xy: 2, 104
+  size: 217, 104
+  orig: 217, 104
+  offset: 0, 0
+  index: -1
+truck
+  rotate: false
+  xy: 518, 210
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
